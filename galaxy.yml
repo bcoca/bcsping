@@ -1,12 +1,12 @@
-namespace: bcs
-name: "bcsping"
-version: '0.1'
+#namespace: bcs
+name: "bcs.bcsping"
+version: '0.0.1'
 authors: ['i disown this']
 description: i blatant copy and rename of the ping module
-license: dont use, this is for a test
-tags:
-    - bad
-    - breaks
-    - dontuse
-    - stayaway
-repository: github.com/bcoca/bcsping
+license: GPL-2.0-or-later
+#tags:
+#    - bad
+#    - breaks
+#    - dontuse
+#    - stayaway
+#repository: github.com/bcoca/bcsping
