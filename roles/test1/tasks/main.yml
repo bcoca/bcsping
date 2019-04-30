@@ -1,0 +1,7 @@
+---
+- debug: var=testvar
+  tags: ['test1']
+  changed_when: True
+- debug: var=testvardontexist
+  tags: ['test1']
+  changed_when: True
